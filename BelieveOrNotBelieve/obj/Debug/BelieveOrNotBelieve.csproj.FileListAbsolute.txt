@@ -1,0 +1,9 @@
+C:\Users\1\Desktop\Учеба\C#\Lesson_8\BelieveOrNotBelieve\bin\Debug\BelieveOrNotBelieve.exe.config
+C:\Users\1\Desktop\Учеба\C#\Lesson_8\BelieveOrNotBelieve\bin\Debug\BelieveOrNotBelieve.exe
+C:\Users\1\Desktop\Учеба\C#\Lesson_8\BelieveOrNotBelieve\bin\Debug\BelieveOrNotBelieve.pdb
+C:\Users\1\Desktop\Учеба\C#\Lesson_8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Учеба\C#\Lesson_8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.Form1.resources
+C:\Users\1\Desktop\Учеба\C#\Lesson_8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.Properties.Resources.resources
+C:\Users\1\Desktop\Учеба\C#\Lesson_8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Учеба\C#\Lesson_8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.exe
+C:\Users\1\Desktop\Учеба\C#\Lesson_8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.pdb
